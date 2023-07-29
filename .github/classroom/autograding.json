@@ -1,0 +1,224 @@
+{
+  "tests": [
+    {
+      "name": "Klasse Test T1",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Test T1'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Klasse Test T2",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Test T2'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Klasse Test T3",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Test T3'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Klasse Test T4",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Test T4'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "Klasse Cured T1",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Cured T'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Klasse Cured T2",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Cured T2'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Klasse Cured T3",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Cured T3'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Klasse Cured T4",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Cured T4'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "Klasse Employee T1",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Employee T1'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Klasse Employee T2",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Employee T2'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Klasse Employee T3",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Employee T3'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Klasse Employee T4",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Employee T4'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "Klasse ISafetyCheck T1",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse ISafetyCheck T1'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Klasse ISafetyCheck T2",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse ISafetyCheck T2'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Klasse ISafetyCheck T3",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse ISafetyCheck T3'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Klasse Vaccination T1",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Vaccination T1'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Klasse Vaccination T2",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Vaccination T2'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Klasse Vaccination T3",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Vaccination T3'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Klasse Vaccination T4",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Vaccination T4'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Klasse Vaccination T5",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Vaccination T5'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Klasse Vaccination T6",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Vaccination T6'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Klasse Vaccination T7",
+      "setup": "npm install",
+      "run": "npm test -- -t 'Klasse Vaccination T7'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    }
+  ]
+}
