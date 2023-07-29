@@ -23,7 +23,7 @@
     {
       "name": "Klasse Test T3",
       "setup": "npm install",
-      "run": "npm test -- -t 'Klasse Test T3'",
+      "run": "npm test -- -t 'Klasse Test Datumsparameter T3'",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -33,7 +33,7 @@
     {
       "name": "Klasse Test T4",
       "setup": "npm install",
-      "run": "npm test -- -t 'Klasse Test T4'",
+      "run": "npm test -- -t 'Klasse Test isValid T4'",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -43,7 +43,7 @@
     {
       "name": "Klasse Cured T1",
       "setup": "npm install",
-      "run": "npm test -- -t 'Klasse Cured T'",
+      "run": "npm test -- -t 'Klasse Cured T1'",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -63,7 +63,7 @@
     {
       "name": "Klasse Cured T3",
       "setup": "npm install",
-      "run": "npm test -- -t 'Klasse Cured T3'",
+      "run": "npm test -- -t 'Klasse Cured Datumsparameter T3'",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -73,7 +73,7 @@
     {
       "name": "Klasse Cured T4",
       "setup": "npm install",
-      "run": "npm test -- -t 'Klasse Cured T4'",
+      "run": "npm test -- -t 'Klasse Cured isValid T4'",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -173,7 +173,7 @@
     {
       "name": "Klasse Vaccination T3",
       "setup": "npm install",
-      "run": "npm test -- -t 'Klasse Vaccination T3'",
+      "run": "npm test -- -t 'Klasse Vaccination Datumsparameter T3'",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -183,7 +183,7 @@
     {
       "name": "Klasse Vaccination T4",
       "setup": "npm install",
-      "run": "npm test -- -t 'Klasse Vaccination T4'",
+      "run": "npm test -- -t 'Klasse Vaccination Datumsparameter T4'",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -193,7 +193,7 @@
     {
       "name": "Klasse Vaccination T5",
       "setup": "npm install",
-      "run": "npm test -- -t 'Klasse Vaccination T5'",
+      "run": "npm test -- -t 'Klasse Vaccination Datumsparameter T5'",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -203,7 +203,7 @@
     {
       "name": "Klasse Vaccination T6",
       "setup": "npm install",
-      "run": "npm test -- -t 'Klasse Vaccination T6'",
+      "run": "npm test -- -t 'Klasse Vaccination Datumsparameter T6'",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -213,7 +213,7 @@
     {
       "name": "Klasse Vaccination T7",
       "setup": "npm install",
-      "run": "npm test -- -t 'Klasse Vaccination T7'",
+      "run": "npm test -- -t 'Klasse Vaccination isValid T7'",
       "input": "",
       "output": "",
       "comparison": "included",
