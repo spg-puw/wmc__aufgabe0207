@@ -1,6 +1,6 @@
 # Aufgabe COVID-Test
 
-Die folgenden Aufgaben wurde aus dem [Repository von Koll. Schletz](https://github.com/schletz/Wmc/blob/main/31_JavaScript/60_Modules.md#%C3%BCbung) übernommen und um Tests ergänzt.
+Aufgabe by [PUW](https://github.com/spg-puw/). Die folgenden Aufgaben wurde aus dem [Repository von Koll. Schletz](https://github.com/schletz/Wmc/blob/main/31_JavaScript/60_Modules.md#%C3%BCbung) übernommen und um Tests ergänzt.
 
 ## Aufgabe
 
